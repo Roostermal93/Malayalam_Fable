@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "3718574b-a9d9-48f7-a022-20f97ab08e6a",
+            "collectionId": "Malayalam",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Fable/3718574b-a9d9-48f7-a022-20f97ab08e6a/3718574b-a9d9-48f7-a022-20f97ab08e6a_ml_Male.mp4"
+        },
+        {
+            "id": "3e4fd0f0-9527-4e25-ac95-b797f3d323ba",
+            "collectionId": "Malayalam",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Fable/3e4fd0f0-9527-4e25-ac95-b797f3d323ba/3e4fd0f0-9527-4e25-ac95-b797f3d323ba_ml_Male.mp4"
+        },
+        {
+            "id": "e3aa198f-0814-4708-9587-f6fe7be442d8",
+            "collectionId": "Malayalam",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Fable/e3aa198f-0814-4708-9587-f6fe7be442d8/e3aa198f-0814-4708-9587-f6fe7be442d8_ml_Male.mp4"
+        },
+        {
+            "id": "4c9a5f3c-726a-4532-b4b7-f40977b53e34",
+            "collectionId": "Malayalam",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Fable/4c9a5f3c-726a-4532-b4b7-f40977b53e34/4c9a5f3c-726a-4532-b4b7-f40977b53e34_ml_Female.mp4"
+        },
+        {
+            "id": "9b8d7d77-85d8-4754-addd-f2bc12e1c55b",
+            "collectionId": "Malayalam",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Fable/9b8d7d77-85d8-4754-addd-f2bc12e1c55b/9b8d7d77-85d8-4754-addd-f2bc12e1c55b_ml_Male.mp4"
+        }
+    ]
+}
